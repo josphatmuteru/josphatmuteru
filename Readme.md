@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josphatmuteru" alt="jenniekibiri" /> </p>
 
-- 🔭 I'm a Javascript Developer and a Frontend developer by Profession from OpenClassrooms.
+- 🔭 I'm a full-stack web developer.
 
 - 📝 Take a look at my projects.
 [josphatmuteru.netlify.app](https://josphatmuteru.netlify.app/)
