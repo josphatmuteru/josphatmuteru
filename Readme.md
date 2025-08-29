@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Josphat Muteru</h1>
 <h3 align="center"> software Engineer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josphatmuteru" alt="jenniekibiri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josphatmuteru" alt="josphatmuteru" /> </p>
 
 - 🔭 I'm a full-stack web developer.
 
 - 📝 Take a look at my projects.
 [josphatmuteru.netlify.app](https://josphatmuteru.netlify.app/)
+
+
+  - [supabase keep alive chrome extension](https://chromewebstore.google.com/detail/supabase-keep-alive/fblgjapnnnbmcegmgapkbfgaejfhplhn?hl=en-US&utm_source=ext_sidebar)
+
 
 - 💬 Ask me about **Nodejs,React,Javascript, supabase**
 
